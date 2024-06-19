@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link {
+  margin-right: 10px;
+}
